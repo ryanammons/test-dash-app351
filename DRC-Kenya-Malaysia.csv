@@ -1,0 +1,83 @@
+country,event_date,event_type,latitude,longitude,fatalities
+Nigeria,31-Mar-21,Violence against civilians,7.0413,3.3547,0
+Democratic Republic of Congo,20-Mar-21,Protests,-0.31,18.9653,0
+Democratic Republic of Congo,6-Mar-21,Protests,-10.7167,25.4725,0
+Nigeria,2-Mar-21,Violence against civilians,7.6841,5.3867,0
+Democratic Republic of Congo,7-Feb-21,Violence against civilians,1.3601,29.0354,1
+Nigeria,1-Feb-21,Battles,7.4667,4.6833,1
+Democratic Republic of Congo,1-Feb-21,Protests,-10.7167,25.4725,0
+Democratic Republic of Congo,28-Jan-21,Riots,-10.7167,25.4725,0
+Kenya,21-Dec-20,Violence against civilians,2.202,40.754,1
+Nigeria,16-Dec-20,Riots,7.7162,4.745,2
+Nigeria,14-Dec-20,Battles,7.8773,9.779,1
+Democratic Republic of Congo,2-Dec-20,Violence against civilians,-3.1531,28.5458,1
+Democratic Republic of Congo,30-Nov-20,Battles,1.3601,29.0354,3
+Nigeria,27-Nov-20,Battles,7.621,5.2215,1
+Democratic Republic of Congo,24-Oct-20,Protests,-6.4162,20.8,0
+Kenya,20-Oct-20,Protests,-0.5273,34.4571,0
+Malaysia,9-Oct-20,Strategic developments,1.7426,104.5855,0
+Democratic Republic of Congo,11-Aug-20,Battles,-10.8847,25.197,1
+Nigeria,22-Jul-20,Battles,5.3192,8.5795,1
+Nigeria,3-Jun-20,Violence against civilians,5.9529,7.5601,0
+Democratic Republic of Congo,2-May-20,Battles,1.4094,28.0752,3
+Nigeria,25-Apr-20,Battles,6.3163,8.1169,1
+Nigeria,21-Apr-20,Protests,6.4531,3.3958,0
+Democratic Republic of Congo,5-Apr-20,Battles,1.6424,30.2232,4
+Democratic Republic of Congo,19-Mar-20,Riots,-11.6596,27.4741,0
+Malaysia,1-Jan-20,Protests,3.1412,101.6865,0
+Nigeria,26-Nov-19,Battles,7.5305,4.6484,1
+Democratic Republic of Congo,21-Nov-19,Violence against civilians,-3.1531,28.5458,0
+Democratic Republic of Congo,28-Oct-19,Protests,-3.2833,28.0833,0
+Malaysia,17-Oct-19,Protests,3.1412,101.6865,0
+Malaysia,29-Sep-19,Protests,3.1412,101.6865,0
+Malaysia,5-Jul-19,Protests,3.1412,101.6865,0
+Democratic Republic of Congo,17-Jun-19,Battles,1.75,30.6,2
+Malaysia,16-Jun-19,Protests,3.1412,101.6865,0
+Kenya,23-Apr-19,Protests,-2.4112,37.9652,0
+Malaysia,26-Mar-19,Protests,6.121,100.3601,0
+Malaysia,26-Mar-19,Protests,5.4112,100.3354,0
+Democratic Republic of Congo,17-Mar-19,Violence against civilians,1.3979,28.581,3
+Democratic Republic of Congo,2-Jan-19,Violence against civilians,-5.9833,29.0667,1
+Malaysia,14-Dec-18,Protests,3.1412,101.6865,0
+Malaysia,25-Nov-18,Protests,3.3646,101.6041,0
+Kenya,25-Oct-18,Protests,1.1833,34.8,0
+Kenya,22-Sep-18,Protests,1.0968,36.698,0
+Kenya,8-Sep-18,Strategic developments,-4.0547,39.6636,0
+Malaysia,21-Jul-18,Protests,3.1412,101.6865,0
+Malaysia,11-Jul-18,Riots,3.9679,103.4319,0
+Kenya,6-Jun-18,Protests,-1.283,36.817,0
+Nigeria,26-Feb-18,Protests,7.3776,3.9059,0
+Democratic Republic of Congo,15-Feb-18,Explosions/Remote violence,-2.5,28.8667,3
+Nigeria,28-Nov-16,Violence against civilians,8.7167,8.5333,1
+Nigeria,3-Oct-16,Protests,5.1066,7.3667,0
+Nigeria,1-Sep-16,Violence against civilians,7.2167,3.5167,0
+Nigeria,6-Aug-16,Violence against civilians,8.5167,8.05,0
+Nigeria,5-Aug-16,Violence against civilians,8.5167,8.05,0
+Kenya,2-Aug-16,Riots,-1.1171,36.2435,0
+Kenya,1-Aug-16,Protests,-1.1171,36.2435,0
+Democratic Republic of Congo,15-Mar-16,Protests,-4.325,15.3222,0
+Democratic Republic of Congo,31-Dec-15,Violence against civilians,-11.6596,27.4741,1
+Nigeria,22-Jul-15,Protests,6.5942,3.3375,0
+Nigeria,13-May-15,Protests,12,8.5167,0
+Nigeria,6-May-15,Protests,6.6155,3.5087,0
+Nigeria,6-May-15,Protests,6.4531,3.3958,0
+Democratic Republic of Congo,22-Apr-15,Riots,-5.9275,12.3715,0
+Kenya,26-Mar-15,Riots,-1.283,36.817,0
+Nigeria,13-Mar-15,Violence against civilians,7.8024,6.743,1
+Democratic Republic of Congo,21-Jan-15,Riots,-4.325,15.3222,0
+Nigeria,2-Oct-14,Protests,6.5942,3.3375,0
+Nigeria,25-Jan-14,Violence against civilians,12.5898,6.5779,1
+Kenya,21-Sep-13,Violence against civilians,-1.2571,36.8033,38
+Nigeria,24-Jun-13,Battles,6.4531,3.3958,7
+Democratic Republic of Congo,10-Jun-13,Riots,-8.7386,24.9906,1
+Nigeria,17-Apr-13,Protests,6.5942,3.3375,0
+Kenya,19-Mar-13,Riots,-2.95,37.6,0
+Kenya,13-Jan-13,Protests,-0.6833,36.9667,0
+Nigeria,7-Nov-12,Violence against civilians,11.8072,12.4909,2
+Nigeria,19-Oct-12,Violence against civilians,11.8312,13.1517,4
+Nigeria,6-Oct-12,Violence against civilians,12.499,12.7848,4
+Kenya,16-Aug-12,Protests,-1.2717,36.8497,0
+Kenya,27-Jul-12,Riots,0.3546,37.5822,0
+Nigeria,18-Jun-12,Protests,6.4531,3.3958,0
+Kenya,9-Jun-12,Protests,-1.2,36.8333,0
+Democratic Republic of Congo,13-Feb-12,Riots,-4.62,15.1044,0

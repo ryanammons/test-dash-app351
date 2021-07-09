@@ -1,0 +1,401 @@
+Port,Longitude,Latitude
+ Abu Dhabi ,24.46666667,54.36666667
+ Ar Ruways ,24.11666667,52.73333333
+ Khor al Fakkan ,25.33333333,56.35
+ Mina Khalid ,25.35,55.36666667
+ Mina Khalifa\/Abu Dhabi ,24.83333333,54.66666667
+ Umm al Qaiwain ,25.56666667,55.55
+ Saint John's ,17.11666667,-61.85
+ Pago Pago ,14.26666667,-170.7
+ Chattogram ,22.33333333,91.83333333
+ Mina Sulman Port ,26.2,50.61666667
+ Banana ,-6.003633267,12.40121189
+ Pointe Noire ,-4.8,11.85
+ Antofagasta ,-23.63333333,-70.38333333
+ Arica ,-18.48333333,-70.31666667
+ Coronel ,-37.01666667,-73.15
+ Iquique ,-20.21666667,-70.13333333
+ Lirquén ,-36.7,-72.98333333
+ Mejillones ,-23.1,-70.45
+ Puerto Angamos ,-23.08333333,-70.45
+ Punta Arenas ,-53.13333333,-70.93333333
+ San Antonio ,-33.6,-71.6
+ San Vicente ,-36.7,-73.13333333
+ Valparaiso ,-33.03333333,-71.63333333
+ Caofeidian Pt ,38.95,118.5333333
+ DA CHAN BAY ,22.53333333,113.8666667
+ Dongguan Pt ,23.03333333,113.75
+ Dongjiangkou ,35.30888533,119.5225398
+ Fuqing ,25.71666667,119.3666667
+ Huizhou Pt ,23.08333333,114.3666667
+ Humen Pt ,22.83333333,113.6666667
+ Jiangyin ,25.46666667,119.3
+ Jinzhou Pt ,41.11666667,121.15
+ Lianyungang ,34.71666667,119.4333333
+ Nansha Pt ,22.75,113.5833333
+ Nantong Pt ,32.01666667,120.85
+ Qinhuangdao Pt ,39.91666667,119.5833333
+ Quanzhou Pt ,24.93333333,118.6
+ Rizhao Pt ,35.38333333,119.5333333
+ Shekou Pt ,22.48333333,113.9166667
+ Shidao Pt ,36.86666667,122.4333333
+ Waihai ,22.58333333,113.1333333
+ Weifang Pt ,36.71666667,119.1
+ Weihai ,37.51666667,122.1166667
+ Yangpu Pt ,19.7,109.2
+ Yantian Pt ,26.85,119.8666667
+ Yingkou Pt ,40.65,122.2166667
+ Zhangjiagang ,31.86666667,120.5333333
+ Zhangzhou Pt ,24.51666667,117.65
+ Zhuhai Pt ,22.28333333,113.5666667
+ Caldera ,9.95,-84.71666667
+ Moín ,10,-83.08333333
+ Puerto Limón ,10,-83.03333333
+ Mariel ,23,-82.75
+ Mindelo ,16.88333333,-25
+ Limassol ,34.68333333,33.05
+ Caucedo ,18.41666667,-69.63333333
+ Manzanillo ,19.7,-71.75
+ Alger (Algiers) ,36.75,3.05
+ Arzew ,35.86666667,-0.316666667
+ Ghazaouet ,35.1,-1.85
+ Esmeraldas ,0.983333333,-79.7
+ Guayaquil ,-2.166666667,-79.9
+ Posorja ,-2.7,-80.25
+ Puerto Bolívar ,-3.266666667,-79.98333333
+ Kunda ,59.51666667,26.53333333
+ Muuga ,59.5,24.96666667
+ Paldiski ,59.35,24.05
+ Tallinn ,59.43333333,24.73333333
+ Dumyat (Damietta) ,31.41666667,31.81666667
+ El Iskandariya (Alexandria) ,31.18333333,29.91666667
+ Sokhna Port ,29.65,32.35
+ Lautoka ,-17.61666667,177.45
+ Suva ,-18.13333333,178.45
+ Heraklion (Iraklion) ,35.33333333,25.16666667
+ Iraklion (Heraklion) ,35.33333333,25.16666667
+ Piraeus ,37.93333333,23.61666667
+ Thessaloníki ,40.63333333,22.95
+ Vólos ,39.36666667,22.95
+ Bissau ,11.85,-15.58333333
+ Ploce ,43.05,17.43333333
+ Rijeka ,45.33333333,14.4
+ Split ,43.5,16.45
+ Balikpapan ,-1.283333333,116.8333333
+ Batam Island ,1.083333333,104.0333333
+ Benete ,-8.866666667,116.7166667
+ Benoa ,-8.766666667,115.2166667
+ Jakarta Java ,-6.133333333,106.8333333
+ Jayapura Irian Jaya ,-2.533333333,140.7
+ Kumai ,-2.733333333,111.7166667
+ Makassar ,-5.116666667,119.4
+ Padang ,-0.95,100.35
+ Perawang ,1.066666667,102.8666667
+ Semarang ,-6.966666667,110.4833333
+ Surabaya ,-7.233333333,112.75
+ Tanjungpinang ,0.916666667,104.45
+ Timika ,-4.75,136.55
+ Tual ,-5.633333333,132.7333333
+ Umm Qasr Port ,30.03333333,47.93333333
+ Asaluyeh ,27.46666667,52.6
+ Bandar Abbas ,27.18333333,56.26666667
+ Bandar Khomeini ,30.43333333,49.1
+ Bushehr ,28.96666667,50.83333333
+ Ancona ,43.63333333,13.5
+ Bari ,41.13333333,16.85
+ Cagliari ,39.21666667,9.116666667
+ Catania ,37.5,15.1
+ Civitavecchia ,42.1,11.8
+ Genova ,44.41666667,8.95
+ Gioia Tauro ,38.41666667,15.9
+ La Spezia ,44.11666667,9.833333333
+ Livorno ,43.55,10.31666667
+ Napoli ,40.83333333,14.25
+ Olbia ,40.91666667,9.516666667
+ Palermo ,38.11666667,13.36666667
+ Savona ,44.28333333,8.5
+ Trapani ,38.01666667,12.48333333
+ Vado Ligure ,44.26666667,8.45
+ Venezia ,45.43333333,12.33333333
+ Kâmpóng Saôm ,10.6,103.5166667
+ Mutsamudu Anjouan ,-12.15,44.38333333
+ Shuaiba ,29.03333333,48.13333333
+ Shuwaikh ,29.35,47.93333333
+ Beirut ,33.83333333,35.48333333
+ Colombo ,6.916666667,79.85
+ Monrovia ,6.3,-10.8
+ Al Khums ,32.65,14.26666667
+ Giurgiulesti ,45.46666667,28.18333333
+ Bar ,42.08333333,19.08333333
+ Ehoala ,-25.06666667,46.95
+ Nosy-Be ,-13.33333333,48.25
+ Thilawa ,16.65,96.25
+ Thilawa ,16.65,96.25
+ Marsaxlokk ,35.83333333,14.53333333
+ Male ,4.166666667,73.5
+ Penang (Georgetown) ,5.416666667,100.3166667
+ Port Klang (Pelabuhan Klang) ,3,101.4
+ Tanjung Pelepas ,1.366666667,103.55
+ Lüderitz ,-26.65,15.16666667
+ Lekki ,6.45,3.1
+ Onne ,4.716666667,7.15
+ Auckland ,-36.83333333,174.8
+ Bluff ,-46.6,168.3166667
+ Lyttelton ,-43.6,172.7166667
+ Marsden Point ,-35.83333333,174.5
+ Napier ,-39.46666667,176.9
+ Nelson ,-41.25,173.2666667
+ Port Chalmers ,-45.81666667,170.6
+ Tauranga ,-37.68333333,176.1666667
+ Timaru ,-44.38333333,171.25
+ Wellington ,-41.26666667,174.7833333
+ Colón ,9.35,-79.86666667
+ Cristóbal ,9.35,-79.9
+ Panamá Ciudad de ,8.966666667,-79.53333333
+ Rodman ,8.95,-79.56666667
+ Madang ,-5.216666667,145.7833333
+ Motukea Island ,-9.433333333,147.1
+ Batangas\/Luzon ,13.75,121.05
+ General Santos ,6.116666667,125.15
+ Tagoloan ,8.533333333,124.75
+ Gdynia ,54.5,18.55
+ Swinoujscie ,53.9,14.25
+ Caniçal ,32.73333333,-16.73333333
+ Figueira da Foz ,40.15,-8.866666667
+ Horta ,38.53333333,-28.63333333
+ Leixões ,41.18333333,-8.683333333
+ Lisboa ,38.71666667,-9.133333333
+ Pico ,41.68333333,-8.416666667
+ Ponta Delgada ,37.73333333,-25.66666667
+ Porto Santo Island ,33.06666667,-16.33333333
+ Praia da Graciosa ,39.05,-27.96666667
+ Praia da Vitória ,38.73333333,-27.06666667
+ Santa Cruz das Flores ,39.45,-31.11666667
+ Setúbal ,38.53333333,-8.9
+ Sines ,37.95,-8.866666667
+ Velas ,38.68333333,-28.21666667
+ Vila do Porto ,36.93333333,-25.15
+ BGN\/PCGN1956 - HAMAD ,25,51.61666667
+ Mesaieed ,25.63333333,51.91666667
+ Constanta ,44.18333333,28.65
+ Lomonosov ,59.9,29.73333333
+ Novorossiysk ,44.71666667,37.76666667
+ Saint Petersburg (ex Leningrad) ,59.88333333,30.25
+ Ust'-Luga ,59.66666667,28.31666667
+ Vostochnyy Port ,42.76666667,133.05
+ Zarubino ,42.61666667,131.0833333
+ Ad Dammam ,26.41666667,50.1
+ Jeddah ,21.53333333,39.16666667
+ King Abdullah City ,22.4,39.08333333
+ Yanbu al-Bahr ,24.08333333,38.03333333
+ Bangkok ,13.75,100.5166667
+ Laem Chabang ,13.08333333,100.8833333
+ Phuket International Apt ,8.116666667,98.31666667
+ Sahathai Coastal Seaport ,13.65,100.5333333
+ Dili ,-8.55,125.5666667
+ Nuku'alofa ,-21.13333333,-175.2
+ Ambarli ,41.03333333,39.16666667
+ Antalya ,36.83333333,30.6
+ Bandirma ,40.35,27.96666667
+ Eregli ,37.5,34.05
+ Evyap Port \/Kocaeli ,40.76666667,29.7
+ Gebze ,40.78333333,29.41666667
+ Gemlik ,40.41666667,29.15
+ Iskenderun ,36.58333333,36.16666667
+ Izmir ,38.41666667,27.15
+ Izmit ,40.78333333,29.95
+ Kumport ,40.95,28.81666667
+ Limas ,38.75,26.91666667
+ Mardas ,41.01666667,28.95
+ Mersin ,36.71666667,34.63333333
+ Samsun ,41.28333333,36.33333333
+ Tekirdag ,40.96666667,27.51666667
+ Trabzon ,41,39.73333333
+ Yilport ,40.76666667,29.53333333
+ Taipei ,25.03333333,121.5166667
+ Dar es Salaam ,-6.8,39.28333333
+ Chornomorsk ,46.31666667,30.66666667
+ Odesa ,46.5,30.75
+ Yuzhnyi ,46.6,31.01666667
+ Punta Pereyra ,-34.23333333,-58.06666667
+ Palúa ,8.35,-62.66666667
+ Cape Town ,-33.91666667,18.41666667
+ Coega ,-33.76666667,25.66666667
+ Durban ,-29.85,31.01666667
+ Ajman ,25.40177,55.47878
+ Jebel Ali ,25.00255,55.10811
+ Durrës ,41.32355,19.45469
+ Durrës ,41.32355,19.45469
+ Cabinda ,-5.55,12.2
+ Lobito ,-12.3644,13.53601
+ Luanda ,-8.83682,13.23432
+ Malongo ,-5.396406482,12.1980218
+ Namibe ,-15.19611,12.15222
+ Soyo ,-6.1349,12.36894
+ Bridgetown ,13.10732,-59.62021
+ Mongla ,22.47223,89.61095
+ Burgas ,42.50606,27.46781
+ Varna ,43.21667,27.91667
+ Cotonou ,6.36536,2.41833
+ Aitutaki ,-18.85195,-159.79293
+ Rarotonga ,-21.2075,-159.77545
+ Douala ,4.04827,9.70428
+ Kribi ,2.93725,9.90765
+ Moa ,20.65776,-74.95075
+ Santiago de Cuba ,20.02083,-75.82667
+ Palmeira ,16.75754,-22.98348
+ Praia ,14.93152,-23.51254
+ Sal Rei ,16.17611,-22.91722
+ Djibouti ,11.58901,43.14503
+ Roseau ,15.30174,-61.38808
+ Boca Chica ,18.45,-69.6
+ Puerto Plata ,19.79344,-70.6884
+ Mostaganem ,35.93115,0.08918
+ Oran ,35.69906,-0.63588
+ El Dekheila ,31.13133,29.82126
+ Port Said ,31.26531,32.3019
+ Libreville ,0.39241,9.45356
+ Port Gentil ,-0.71933,8.78151
+ Saint George's ,12.05288,-61.75226
+ Batumi ,41.64228,41.63392
+ Poti ,42.14272,41.67384
+ Takoradi ,4.89816,-1.76029
+ Tema ,5.6698,-0.01657
+ Banjul ,13.45274,-16.57803
+ Conakry ,9.53795,-13.67729
+ Bata ,1.86391,9.76582
+ Malabo ,3.75578,8.78166
+ Georgetown ,6.80448,-58.15527
+ Banjarmasin ,-3.31987,114.59075
+ Belawan Sumatra ,3.7755,98.6832
+ Bitung Sulawesi ,1.44059,125.12824
+ Gorontalo Sulawesi ,-0.8985,123.3908
+ Kendari Sulawesi ,-3.9778,122.51507
+ Luwuk ,-0.9516,122.7875
+ Medan Sumatra ,3.58333,98.66667
+ Palembang Sumatra ,-2.91673,104.7458
+ Panjang ,0.3087,100.6199
+ Pontianak Kalimantan ,-0.03194,109.325
+ Samarinda Kalimantan ,-0.49167,117.14583
+ Sorong ,-0.87956,131.26104
+ Tarakan Kalimantan ,3.31332,117.59152
+ Tolitoli ,1.2718,121.1679
+ Abu Al Fulus ,30.44783,48.04246
+ Basra ,30.50852,47.7804
+ Marina di Carrara ,44.03837,10.04142
+ Monfalcone ,45.80463,13.53292
+ Pozzuoli ,40.84394,14.0952
+ Ravenna ,44.41344,12.20121
+ Salerno ,40.67545,14.79328
+ Trieste ,45.64953,13.77678
+ Kingston ,17.99702,-76.79358
+ Montego Bay ,18.47116,-77.91883
+ Mombasa ,-4.05466,39.66359
+ Moroni ,-11.70216,43.25506
+ Tripoli ,34.43352,35.84415
+ Klaipeda ,55.7068,21.13912
+ Riga ,56.946,24.10589
+ Bingazi (Benghazi) ,32.11486,20.06859
+ Misurata ,32.37535,15.09254
+ Tripoli ,32.88743,13.18733
+ Antsiranana ,-12.31732,49.29188
+ Majunga (Mahajanga) ,-15.71667,46.31667
+ Tamatave (Toamasina) ,-18.1492,49.40234
+ Tulear (Toliara) ,-23.35,43.66667
+ Yangon ,16.80528,96.15611
+ Yangon ,16.80528,96.15611
+ Nouadhibou ,20.94188,-17.03842
+ Nouakchott ,18.08581,-15.9785
+ Bintulu Sarawak ,3.16667,113.03333
+ Kota Kinabalu Sabah ,5.9749,116.0724
+ Kuching Sarawak ,1.55,110.33333
+ Labuan Sabah ,5.28883,115.26924
+ Malacca ,2.196,102.2405
+ Pasir Gudang Johor ,1.4726,103.878
+ Sandakan Sabah ,5.8402,118.1179
+ Sibu Sarawak ,2.3,111.81667
+ Tawau Sabah ,4.24482,117.89115
+ Beira ,-19.84361,34.83889
+ Maputo ,-25.96553,32.58322
+ Nacala ,-14.56257,40.68538
+ Quelimane ,-17.87861,36.88833
+ Walvis Bay ,-22.9575,14.50528
+ Apapa ,6.4488,3.35901
+ Calabar ,4.95893,8.32695
+ Lagos ,6.45407,3.39467
+ Port Harcourt ,4.77742,7.0134
+ Salalah ,17.01505,54.09237
+ Sohar ,24.34745,56.70937
+ Almirante ,9.30091,-82.4018
+ Balboa ,8.94814,-79.56672
+ Coco Solo ,9.37091,-79.88168
+ Manzanillo ,7.53667,-81.16667
+ Callao ,-12.05659,-77.11814
+ Ilo ,-17.63185,-71.34108
+ Iquitos ,-3.74912,-73.25383
+ Matarani ,-16.99639,-72.10563
+ Paita ,-5.08917,-81.11444
+ Pisco ,-13.71029,-76.20538
+ Alotau ,-10.31509,150.45742
+ Buka ,-5.43261,154.67098
+ Kimbe ,-5.55085,150.13766
+ Lae ,-6.72333,146.99611
+ Port Moresby ,-9.47723,147.15089
+ Rabaul ,-4.20037,152.16297
+ Wewak ,-3.54964,143.63229
+ Bacolod Negros ,10.66667,122.95
+ Cagayan de Oro Mindanao ,8.48222,124.64722
+ Cebu ,10.31672,123.89071
+ Cotabato Mindanao ,7.22361,124.24639
+ Dumaguete ,9.30722,123.30261
+ Manila ,14.6042,120.9822
+ Ozamis Mindanao ,8.1481,123.8405
+ Polloc ,7.3534,124.22088
+ Puerto Princesa Palawan ,9.73917,118.73528
+ Subic Bay ,14.78899,120.27987
+ Tagbilaran Bohol ,9.65556,123.85219
+ Zamboanga ,6.91028,122.07389
+ Gwadar ,25.12163,62.32541
+ Karachi ,24.8608,67.0104
+ Gdansk ,54.35227,18.64912
+ Szczecin ,53.42894,14.55302
+ Arkhangelsk ,64.5401,40.5433
+ Dudinka ,69.40583,86.17778
+ Kaliningrad ,54.70649,20.51095
+ Korsakov ,46.6342,142.77722
+ Magadan ,59.5638,150.80347
+ Petropavlovsk-Kamchatskiy ,53.04444,158.65076
+ Vladivostok ,43.10562,131.87353
+ Jubail ,27.0174,49.62251
+ Port Victoria ,-4.62001,55.45501
+ Port Sudan ,19.61745,37.21644
+ Singapore ,1.28967,103.85007
+ Koper ,45.54694,13.72944
+ Freetown ,8.48714,-13.2356
+ Dakar ,14.6937,-17.44406
+ Berbera ,10.43959,45.01432
+ Kismayu ,-0.35817,42.54536
+ Mogadishu ,2.03711,45.34375
+ Paramaribo ,5.86638,-55.16682
+ Paramaribo ,5.86638,-55.16682
+ Acajutla ,13.59278,-89.8275
+ San Salvador ,13.68935,-89.18718
+ Lome ,6.12874,1.22154
+ Sriracha ,13.17372,100.93111
+ Bizerte ,37.27442,9.87391
+ Sfax ,34.74056,10.76028
+ Sousse ,35.82539,10.63699
+ Tunis ,36.81897,10.16579
+ Aliaga ,38.79975,26.97203
+ Derince ,40.75694,29.81472
+ Haydarpasa ,40.99596,29.02459
+ Yarimca ,39.08361,31.14194
+ Montevideo ,-34.90328,-56.18816
+ Port Vila ,-17.73648,168.31366
+ Santo ,-15.51989,167.16235
+ Apia ,-13.83333,-171.76666
+ Aden ,12.77944,45.03667
+ Mukalla ,14.54248,49.12424
+ East London ,-33.01529,27.91162
+ Port Elizabeth ,-33.96109,25.61494
+ Richards Bay ,-28.78301,32.03768
