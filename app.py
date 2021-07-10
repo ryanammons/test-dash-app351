@@ -215,6 +215,8 @@ folium.LayerControl().add_to(trade_map)
 ### App ###
 app = dash.Dash(__name__)
 
+server = app.server
+
 app.scripts.config.serve_locally = True
 app.Title = "Belt and Road Initiative Study"
 
