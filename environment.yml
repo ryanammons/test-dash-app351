@@ -6,5 +6,13 @@ dependencies:
     - dash-renderer
     - dash-core-components
     - dash-html-components
+    - dash-bootstrap-components
     - plotly
+    - numpy
+    - pandas
+    - folium
+    - pathlib
+    - fiona
+    - shapely
+    - geopandas
     - gunicorn # for app deployment
